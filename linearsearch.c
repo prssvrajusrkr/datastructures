@@ -26,4 +26,4 @@ void main()
         printf("Element is not found in list");
     }
     getch();
-}
+    
